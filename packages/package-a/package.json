@@ -1,0 +1,27 @@
+{
+	"version": "0.1.0",
+	"description": "[TODO]",
+	"author": "[TODO]",
+	"homepage": "[TODO]",
+	"keywords": [],
+	"repository": {
+		"type": "git",
+		"url": "git+[TODO]"
+	},
+	"bugs": {
+		"url": "[TODO]"
+	},
+	"main": "./lib/api.js",
+	"types": "./types.d.ts",
+	"files": [
+		"./lib/",
+		"./types.d.ts"
+	],
+	"scripts": {
+		"test": "npx rjs-test unit ./test"
+	},
+	"devDependencies": {
+		"@rapidjs.org/testing": "^0.1.0",
+		"@rapidjs.org/testing-unit": "^0.1.0"
+	}
+}

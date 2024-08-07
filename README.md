@@ -1,0 +1,3 @@
+# Javascript Monorepo Template
+
+[TODO]
